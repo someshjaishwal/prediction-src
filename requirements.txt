@@ -1,0 +1,13 @@
+argparse
+python-levenshtein
+torch==1.4
+visdom
+wget
+librosa
+tqdm
+matplotlib
+flask
+scipy
+numpy
+six
+
