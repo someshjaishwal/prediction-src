@@ -1,3 +1,6 @@
+'''
+  DO NOT MODIFY THIS FILE
+'''
 transcriptions = ['box chicken meat balls',
                   'box regular', 
                   'cheesy dip', 
