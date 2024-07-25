@@ -1,6 +1,6 @@
 argparse
 python-levenshtein
-torch==1.4
+torch==2.2.0
 visdom
 wget
 librosa
